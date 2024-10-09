@@ -1,7 +1,7 @@
 public class Test
   {
-    public s v m (strings[]args)
+    public static void main(Strings[]args)
     {
-      system.out.println("java github jenkins")
+      System.out.println("java github jenkins")
         }
   }
